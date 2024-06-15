@@ -1,6 +1,6 @@
-# next-basket
+# Sample Boilerplate
 
-This is created solely for fulfilling the task for Team Lead Frontend Developer position at NEXT BASKET.
+This is created solely as a personal sample boilerplate
 
 ## Technologies
 
